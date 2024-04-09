@@ -1,5 +1,5 @@
 # CommutatusAssignment
-kindly login into the salesforce with below instance url:
+kindly login into the salesforce with below instance url:https://ruby-computing-7649.scratch.lightning.force.com/
 
 create a contact record with firstname, lastname and email. After successful creation email will be triggered with unique link access to user.
 
